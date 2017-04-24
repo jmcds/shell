@@ -1,5 +1,6 @@
 #!/bin/bash
-#testing variables
+#testing variables 
+# 10.4 ,page 205
 
 days=10
 guest="Katie"
