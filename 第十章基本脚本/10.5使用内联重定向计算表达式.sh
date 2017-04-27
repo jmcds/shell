@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# page 208 
 var1=10.45
 var2=43.67
 var3=33.2
