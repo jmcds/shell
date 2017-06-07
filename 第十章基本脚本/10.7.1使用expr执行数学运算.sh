@@ -1,5 +1,6 @@
 #!/bin/bash
 #An example of using the expr command
+# 计算2个数相除
 
 var1=10
 var2=20
