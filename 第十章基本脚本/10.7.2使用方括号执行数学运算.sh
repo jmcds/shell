@@ -1,4 +1,5 @@
 #!/bin/bash
+# 使用[] 进行 shell 算术运算,the result is 500
 
 var1=10
 var2=50
