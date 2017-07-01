@@ -1,5 +1,5 @@
 #!/bin/bash
-#testing the if statement
+#testing the if statement, 2017-7-1
 if date
 then 
 	echo "it worked"
